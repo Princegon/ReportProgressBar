@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AsyncTest</string>
+    <string name="counter_start">카운터 작업 시작</string>
+</resources>
